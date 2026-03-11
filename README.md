@@ -41,6 +41,18 @@ assets/
 
 ## Ekran Goruntuleri
 - `screenshots/` klasoru altina ekran goruntuleri :
+- <p align="center">
+  <img src="screenshots/home_screen1.png" width="180"/>
+  <img src="screenshots/category.png" width="180"/>
+  <img src="screenshots/cart_empty.png" width="180"/>
+  <img width="180"  alt="sepet" src="https://github.com/user-attachments/assets/fefe92d7-2658-49ef-8d51-de367d650497" />
+  <img width="180"  alt="Product_Detail" src="https://github.com/user-attachments/assets/6dcefd4e-cc35-4f3f-b7a0-0fb4d898ee86" />
+</p>
+
+
+
+
+
 - Eklenen dosyalar:
   - `screenshots/home_screen1.png`
   - `screenshots/home_products.png`
@@ -49,6 +61,7 @@ assets/
   - `screenshots/cart_empty.png`
   - `screenshots/cart_with_item.png`
   - `screenshots/product_detail.png`
+    
 
 ## Veri Kaynaklari
 - Banner: https://wantapi.com/assets/banner.png
