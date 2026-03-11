@@ -1,4 +1,4 @@
-# GokcenDilek
+# GokcenDilek Gift Store Mini Katalog 
 
 Flutter ile temel seviyede katalog uygulamasi. GridView tabanli urun listesi,
 detay sayfasi ve basit sepet state guncellemesi icerir.
